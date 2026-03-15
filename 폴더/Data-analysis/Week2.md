@@ -69,12 +69,17 @@ https://www.youtube.com/watch?v=Il6L8OtNFpc&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 - requests 패키지로 가져온 HTML에서 원하는 태그나 텍스트를 찾는 기능 제공
 
 <핵심함수>
+
+
 ![이미지1](이미지/2주차/2.png)
 
 # 2️⃣ 수행 인증
 
-<!-- 교재에서 안내된 과정을 직접 실행해본 뒤, 진행 결과가 보이도록 4~6장의 스크린샷을 캡처하여 아래에 첨부해주세요.-->
-
+![이미지1](이미지/2주차/2_1.png)
+![이미지1](이미지/2주차/2_2.png)
+![이미지1](이미지/2주차/2_3.png)
+![이미지1](이미지/2주차/2_4.png)
+![이미지1](이미지/2주차/2_5.png)
 
 
 <br>
@@ -93,9 +98,8 @@ https://www.youtube.com/watch?v=Il6L8OtNFpc&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 4️⃣ Scikit-learn  
 ```
 
-```
-여기에 선택한 답과 그 이유를 간단히 서술해주세요!
-```
+2번
+Scrapy는 파이썬에서 웹 스크래핑을 할 때 사용할 수 있는 대표적인 패키지 중 하나이다. 웹사이트에서 데이터를 자동으로 수집하고 구조화된 형태로 저장할 수 있도록 도와주는 프레임워크로, 크롤링과 데이터 추출 기능을 함께 제공한다. 반면 NumPy는 수치 계산, Matplotlib은 데이터 시각화, Scikit-learn은 머신러닝을 위한 라이브러리이기 때문에 웹 스크래핑 목적에는 적절하지 않다.
 
 
 
