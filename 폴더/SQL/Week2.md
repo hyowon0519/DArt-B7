@@ -119,11 +119,20 @@ FROM pokemon;
 WHERE type = Electric;
 ~~~
 
+<잘못된 부분>
 
+1. SELECT name. type
+- SQL에서 여러 컬럼을 조회할 때는 .이 아니라 , 사용
+2/ FROM pokemon;
+- WHERE 절이 뒤에 이어지는데 ;이 있으면 쿼리 종료됨
+3. WHERE type = Electric
+- Electric은 문자열 값이므로 ' ' (따옴표)로 감싸야 함. 그렇지 않으면 변수로 인식
 
-~~~
-여기에 답을 작성해주세요!
-~~~
+<수정된 쿼리>
+
+SELECT name, type
+FROM pokemon
+WHERE type = 'Electric';
 
 
 
@@ -140,10 +149,17 @@ GROUP BY type;
 
 
 
-~~~
-여기에 답을 작성해주세요.
-~~~
+<잘못된 부분>
+= WHERE AVG(attack) >= 60
 
+AVG와 같은 집계함수는 WHERE절에서 사용할 수 없음
+-> HAVING 절에서 사용
 
+<수정된 쿼리문>
+
+SELECT type, AVG(attack) AS avg_attack
+FROM pokemon
+GROUP BY type
+HAVING AVG(attack) >= 60;
 
 ### 🎉 수고하셨습니다.
