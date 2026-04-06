@@ -340,6 +340,9 @@ Charmander (Fire) → Hot
 Squirtle (Water) → Cool
 Bulbasaur (Grass) → 조건 없음 → Normal
 
+
+# 학습인증
+![이미지1](이미지/5주차/5png)
 <br>
 
 ### 🎉 수고하셨습니다.
