@@ -323,6 +323,7 @@ FROM pokemon;
 Pikachu, Bulbasaur
 
 - 이유
+
 CASE 
   WHEN type1 = 'Fire' THEN 'Hot'
   WHEN type1 = 'Water' THEN 'Cool'
@@ -333,6 +334,7 @@ Water → Cool
 그 외 → Normal
 
 - 각 포켓몬 결과
+
 Pikachu (Electric) → 조건 없음 → Normal
 Charmander (Fire) → Hot
 Squirtle (Water) → Cool
