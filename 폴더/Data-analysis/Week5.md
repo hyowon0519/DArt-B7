@@ -82,6 +82,7 @@ https://www.youtube.com/watch?v=deYY4xHsI0o&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 ![이미지1](이미지/5주차/5_3.png)
 ![이미지1](이미지/5주차/5_4.png)
 
+
 <br>
 <br>
 
@@ -99,6 +100,7 @@ https://www.youtube.com/watch?v=deYY4xHsI0o&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 3️⃣ y축 이름은 "Y values"로 설정해주세요.
 4️⃣ 마커(marker)를 포함하여 선그래프를 그려주세요.
 ```
+
 
 ```
 여기에 코드를 작성해주세요!
