@@ -106,15 +106,22 @@ https://www.youtube.com/watch?v=deYY4xHsI0o&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 여기에 코드를 작성해주세요!
 ```
 import matplotlib.pyplot as plt
+
 데이터
+
 x = [1, 2, 3, 4, 5]
 y = [2, 4, 6, 8, 10]
+
 그래프 그리기 (마커 포함)
+
 plt.plot(x, y, marker='o')
+
 제목 및 축 이름 설정
+
 plt.title("Linear Trend")
 plt.xlabel("X values")
 plt.ylabel("Y values")
+
 그래프 출력
 plt.show()
 
