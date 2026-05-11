@@ -93,9 +93,9 @@ https://www.youtube.com/watch?v=NTQ5NXelOfw&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 
 
 ![이미지1](./이미지/6주차/6_1.png)
-![이미지2](./이미지/6주차/6_2.png)
-![이미지3](./이미지/6주차/6_3.png)
-![이미지4](./이미지/6주차/6_4.png)
+![이미지2](./이미지/6주차/6-2.png)
+![이미지3](./이미지/6주차/6-3.png)
+![이미지4](./이미지/6주차/6-4.png)
 
 
 
