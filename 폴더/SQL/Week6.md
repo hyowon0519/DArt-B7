@@ -103,7 +103,7 @@ JOIN 쿼리 작성 순서
 JOIN Key 찾기
 결과 예상하기
 쿼리 작성 및 검증하기
-
+~~~
 [기본 문법]
 SELECT
   A.col1,
@@ -119,6 +119,7 @@ SELECT
 FROM basic.trainer_pokemon AS tp
 LEFT JOIN basic.pokemon AS p
 ON tp.pokemon_id = p.id
+~~~
 
 [핵심 포인트]
 - ON 뒤에는 공통 Key 작성
@@ -132,7 +133,7 @@ ON tp.pokemon_id = p.id
 ✅ 학습 목표 :
 * 연습문제(3문제 이상) 푼 것들 정리하기
 
-
+~~~
 [1번: 트레이너가 보유한 포켓몬 수 계산하기]
 
 SELECT
@@ -181,7 +182,7 @@ GROUP BY p.generation
 
 - 여러 개의 JOIN을 연속으로 사용할 수 있음
 - 기준 테이블을 잘 정하는 것이 중요함
-
+~~~
 
 
 
