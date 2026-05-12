@@ -199,14 +199,15 @@ GROUP BY p.generation
 https://school.programmers.co.kr/learn/courses/30/lessons/131533
 
 > 상품 별 오프라인 매출 구하기
+![이미지1](이미지/6주차/S6_1.png)
 
 https://school.programmers.co.kr/learn/courses/30/lessons/133027
 
 > 주문량이 많은 아이스크림들 조회하기
 
-<!-- 정답을 맞추게 되면, 정답입니다. 이 부분을 캡처해서 이 주석을 지우시고 첨부해주시면 됩니다. --> 
 
 
+![이미지2](이미지/6주차/S6_2.png)
 
 ---
 
